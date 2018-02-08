@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"image": "./monsters/01.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"image": "./monsters/02.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"image": "./monsters/03.jpg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"image": "./monsters/04.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"image": "./monsters/05.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"image": "./monsters/06.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"image": "./monsters/07.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"image": "./monsters/08.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"image": "./monsters/09.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"image": "./monsters/10.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"image": "./monsters/11.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"image": "./monsters/12.jpg",
+		"clicked": false
+	}
+]

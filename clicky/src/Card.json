@@ -1,0 +1,64 @@
+[
+
+	{
+		"id": 1,
+		"image": "./xmen/01.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"image": "./xmen/02.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"image": "./xmen/03.jpg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"image": "./xmen/04.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"image": "./xmen/05.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"image": "./xmen/06.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"image": "./xmen/07.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"image": "./xmen/08.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"image": "./xmen/09.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"image": "./xmen/10.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"image": "./xmen/11.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"image": "./xmen/12.jpg",
+		"clicked": false
+	}
+
+]

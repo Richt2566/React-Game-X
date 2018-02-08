@@ -1,0 +1,11 @@
+body {
+	background-image: url("xmenback.jpg");
+	background-repeat: no-repeat;
+	background-size: 1500px;
+}
+
+h3 {
+	display: inline;
+	margin-right: 20px;
+	color: grey;
+}
