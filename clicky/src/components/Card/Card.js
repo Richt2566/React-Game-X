@@ -6,8 +6,6 @@ const Card = props => (
 		<div className="img-container">
 			<img src={props.image} />
 		</div>
-
-
 	</div>
 );
 
