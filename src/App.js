@@ -27,7 +27,7 @@ class App extends Component {
 		if (clickedCharacter[0].clicked) {
 
 			correctClicks = 0;
-			message = "Wrong!"
+			message = "You already clicked that album!"
 
 			for ( let i = 0; i < characters.length; i++){
 				characters[i].clicked = false;
@@ -42,7 +42,7 @@ class App extends Component {
 
 			correctClicks++;
 
-			message = "Keep going!"
+			message = "Good job! Keep going!"
 
 			if (correctClicks > highScore){
 				highScore = correctClicks;

@@ -1,5 +1,6 @@
 .title {
 	display: inline;
-	color: grey;
+	color: red;
 	margin-right: 80px;
+	font-weight: 900;
 }

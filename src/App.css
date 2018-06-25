@@ -2,10 +2,11 @@ body {
 	background-image: url("death.jpg");
 	background-repeat: no-repeat;
 	background-size: 1500px;
+	margin-left: 200px;
 }
 
 h3 {
 	display: inline;
 	margin-right: 20px;
-	color: grey;
+	color: red;
 }
